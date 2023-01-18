@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manan-1008
 - 👀 I’m interested in Programming and Coding
-- 🌱 I’m currently learning Data Structures and Algos
+- 🌱 I’m currently learning Full-Stack Web Development
 - 💞️ I’m looking to collaborate on with a company where I can utilise my programming skills
 - 📫 Reach me at manangandecha108@gmail.com
 
